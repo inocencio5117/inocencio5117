@@ -9,7 +9,6 @@
 🇧🇷
 - 🔭 Atualmente trabalho como militar
 - 🌱 Atualmente estou estudando react
-- 😄 Pronome: Ele/Dele
 - ⚡ Fato engraçado: Adoro RPG de Mesa!
 
 ##
