@@ -1,7 +1,7 @@
 ### Olá! Bem vindo ao meu Github!
 🇧🇷
 - 🔭 Atualmente procuro por oportunidade como programador backend
-- 🌱 Atualmente estou estudando Node.js, DBs e Express.js
+- 🌱 Atualmente estou estudando Node.js e Express.js
 - ⚡ Fato engraçado: Adoro RPG de Mesa!
 
 ##
