@@ -1,14 +1,7 @@
-### Hi there, i'm Inocêncio!
-
-🇺🇸
-- 🔭 I’m currently working on the Military
-- 🌱 I’m currently learning React
-- ⚡ Fun fact: I love TTRPG!
-
-### Olá, eu sou o Inocêncio!
+### Olá! Bem vindo ao meu Github!
 🇧🇷
-- 🔭 Atualmente trabalho como militar
-- 🌱 Atualmente estou estudando react
+- 🔭 Atualmente procuro por oportunidade como programador backend
+- 🌱 Atualmente estou estudando Node.js, DBs e Express.js
 - ⚡ Fato engraçado: Adoro RPG de Mesa!
 
 ##
