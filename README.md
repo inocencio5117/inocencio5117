@@ -1,7 +1,7 @@
 ### Olá! Bem vindo ao meu Github!
 🇧🇷
 
-- 🌱 Atualmente estou estudando React e Vuejs
+- 🌱 Atualmente estou estudando C#, .NET e Python
 - ⚡ Fato engraçado: Adoro RPG de Mesa!
 
 ##
