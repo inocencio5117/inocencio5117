@@ -1,8 +1,11 @@
 ### Olá! Bem vindo ao meu Github!
 🇧🇷
 
-- 🌱 Atualmente estou estudando C#, .NET e Python
-- ⚡ Fato engraçado: Adoro RPG de Mesa!
+Sou um desenvolvedor apaixonado por tecnologia e inovação, com foco em criar soluções eficientes e de impacto. Sempre curioso e detalhista, gosto de mergulhar nos desafios e aprender algo novo a cada projeto.
+
+Com experiência em tecnologias como TypeScript, Vue.js, React, Node.js e Next.js, minha trajetória envolve desde otimização de sistemas e desenvolvimento de funcionalidades até melhorias em desempenho. Tenho um grande interesse por arquitetura de código e interfaces consistentes, buscando sempre unir eficiência e qualidade em cada entrega.
+
+Além de tudo, sou um nerd assumido, movido pela curiosidade e pela paixão por transformar ideias em realidade. Se você também gosta de explorar possibilidades e fazer a diferença, vamos trocar ideias!
 
 ##
 
@@ -20,7 +23,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="nodejs" height="30" width="70" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img align="center" alt="nodejs" height="30" width="70" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img align="center" alt="go" height="30" width="70" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge" />
 </div>
   
   ##
@@ -28,5 +31,3 @@
 <div> 
   <a href="https://www.linkedin.com/in/vinicius-inocencio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
- 
- ![Snake animation](https://github.com/inocencio5117/inocencio5117/blob/output/github-contribution-grid-snake.svg)
